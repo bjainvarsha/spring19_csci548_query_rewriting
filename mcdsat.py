@@ -1,10 +1,10 @@
+#URL to the parent class - https://github.com/bjainvarsha/spring19_csci548_query_rewriting/blob/master/query_rewriting.py
 import query_rewriting
 import mcdsat
 
 class mcdsat(query_rewriting.Query_Rewriting):
 	"""
 	Child class which implements the MCDSAT algorithm for Query Rewriting and MCDs Genreration
-	URL to the parent class - 
 	"""	
 
 	def __init__(self):
